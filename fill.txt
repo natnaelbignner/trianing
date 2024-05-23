@@ -1,4 +1,4 @@
-//Natnael haile's programme
+//Natnael haile's abrha programme
 // Java program for simple calculator
 import java.io.*;
 import java.lang.*;
